@@ -40,3 +40,5 @@ export XDG_DATA_HOME="$HOME/.local/share"
 export EDITOR=nvim
 export VISUAL=code-oss
 export GTK_USE_PORTAL=1
+
+export GPG_TTY=$(tty)
