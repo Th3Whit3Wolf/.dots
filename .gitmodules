@@ -1,3 +1,6 @@
 [submodule ".vscode-oss/extensions/spacemacs-vscode"]
 	path = .vscode-oss/extensions/spacemacs-vscode
 	url = https://github.com/cometeer/spacemacs-vscode.git
+[submodule ".vscode-oss/extensions/vscode-lua-format"]
+	path = .vscode-oss/extensions/vscode-lua-format
+	url = https://github.com/Koihik/vscode-lua-format.git
