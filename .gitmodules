@@ -1,0 +1,3 @@
+[submodule ".vscode-oss/extensions/spacemacs-vscode"]
+	path = .vscode-oss/extensions/spacemacs-vscode
+	url = https://github.com/cometeer/spacemacs-vscode.git
