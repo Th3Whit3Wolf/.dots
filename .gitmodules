@@ -4,3 +4,6 @@
 [submodule ".vscode-oss/extensions/vscode-lua-format"]
 	path = .vscode-oss/extensions/vscode-lua-format
 	url = https://github.com/Koihik/vscode-lua-format.git
+[submodule ".vscode-oss/extensions/Bracket-Pair-Colorizer-2"]
+	path = .vscode-oss/extensions/Bracket-Pair-Colorizer-2
+	url = https://github.com/CoenraadS/Bracket-Pair-Colorizer-2
