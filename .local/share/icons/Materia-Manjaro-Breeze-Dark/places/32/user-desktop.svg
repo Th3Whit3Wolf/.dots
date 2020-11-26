@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" version="1.1">
+ <defs>
+  <linearGradient id="linearGradient4703" x1="418.17" x2="384.571" y1="503.079" y2="531.458" gradientTransform="matrix(0.91666628 0 0 0.91666628 -340.52366 -455.81464)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4697"/>
+  <linearGradient id="linearGradient4697">
+   <stop style="stop-color:#1abc9c"/>
+   <stop style="stop-color:#2980b9" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4532" x1="404.045" x2="430.736" y1="521.633" y2="528.35" gradientTransform="matrix(0.91666628 0 0 0.91666628 -340.52366 -455.81464)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4526"/>
+  <linearGradient id="linearGradient4526">
+   <stop style="stop-color:#cc4a5e"/>
+   <stop style="stop-color:#aa478a" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4474" x1="398.092" x2="394.003" y1="542.224" y2="524.9" gradientTransform="matrix(0.91666628 0 0 0.91666628 -340.52366 -455.81464)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4468"/>
+  <linearGradient id="linearGradient4468">
+   <stop style="stop-color:#334545"/>
+   <stop style="stop-color:#536161" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4500" x1="431.571" x2="439.571" y1="568.798" y2="562.798" gradientTransform="matrix(-1 0 0 1 839.14285 -40.00001)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4468"/>
+  <linearGradient id="linearGradient4498" x1="406.537" x2="423.32" y1="581.87" y2="572.678" gradientTransform="matrix(-0.91666628 0 0 0.91666628 428.69029 -492.4813)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4468"/>
+  <linearGradient id="linearGradient4496" x1="423.054" x2="431.225" y1="572.334" y2="566.766" gradientTransform="matrix(-0.91666628 0 0 0.91666628 448.69029 -492.4813)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4468"/>
+  <linearGradient id="linearGradient4492" x1="431.313" x2="440.632" y1="577.102" y2="571.445" gradientTransform="matrix(-0.91666628 0 0 0.91666628 428.69029 -492.4813)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4468"/>
+  <linearGradient id="linearGradient4490" x1="430.567" x2="423.75" y1="577.362" y2="591.328" gradientTransform="matrix(-0.91666628 0 0 0.91666628 428.69029 -492.4813)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4468"/>
+ </defs>
+ <g transform="matrix(1 0 0 1 -384.57143 -515.798)">
+  <g transform="matrix(0.66666636 0 0 0.85555436 128.19059 86.77142)">
+   <path style="fill:url(#linearGradient4703)" transform="matrix(1.0909096 0 0 1.0909096 371.48052 497.25255)" d="M 12,6 12,36 56,36 56,6 12,6 Z"/>
+   <path style="fill:url(#linearGradient4532)" transform="matrix(1.0909096 0 0 1.0909096 371.48052 497.25255)" d="M 56,6 25.71875,23.482422 47.400391,36 56,36 56,6 Z"/>
+   <path style="fill:url(#linearGradient4474)" transform="matrix(1.0909096 0 0 1.0909096 371.48052 497.25255)" d="M 25.75,23.416016 12,31.355469 12,36 47.605469,36 25.75,23.416016 Z"/>
+   <path style="fill:url(#linearGradient4500)" d="m 407.82995,527.56606 -8.25852,-4.76806 0,9.53611 z"/>
+   <path style="fill:url(#linearGradient4498)" transform="matrix(1.0909096 0 0 1.0909096 371.48052 497.25255)" d="m 40.890625,32.15625 0,3.84375 6.65625,0 -6.65625,-3.84375 z"/>
+   <path style="fill:url(#linearGradient4496)" transform="matrix(1.0909096 0 0 1.0909096 349.66233 497.25255)" d="m 53.320312,27.787109 0,8.212891 0.916016,0 6.654297,-3.841797 -7.570313,-4.371094 z"/>
+   <path style="fill:url(#linearGradient4492)" transform="matrix(1.0909096 0 0 1.0909096 371.48052 497.25255)" d="M 25.75,32.158203 25.75,36 32.404297,36 25.75,32.158203 Z"/>
+   <path style="fill:url(#linearGradient4490)" transform="matrix(1.0909096 0 0 1.0909096 371.48052 497.25255)" d="M 40.890625,32.15625 34.234375,36 l 6.65625,0 0,-3.84375 z"/>
+   <path style="fill:#aa478a" d="m 399.53737,522.87024 33.03408,-19.07223 -2e-5,9.31712 z"/>
+  </g>
+  <g transform="matrix(1 0 0 1 0 -0.00005)">
+   <rect style="fill:#ffffff;fill-opacity:0.784314" width="32" height="4" x="384.57" y="541.8"/>
+   <circle style="fill:#4d4d4d" cx="414.571" cy="543.798" r="1"/>
+   <path style="fill:#4d4d4d" transform="matrix(1 0 0 1 384.57143 515.798)" d="m 2,27 v 1 h 1 v -1 z m 1,1 v 1 h 1 v -1 z"/>
+  </g>
+ </g>
+</svg>

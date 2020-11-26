@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" version="1.1">
+ <defs>
+  <linearGradient id="linearGradient4326">
+   <stop/>
+   <stop style="stop-opacity:0" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient4434" x1="439.571" x2="429.571" y1="502.798" y2="512.798" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient4326"/>
+ </defs>
+ <g transform="matrix(1 0 0 1 -384.57143 -483.798)">
+  <path style="fill:#3b3f42;fill-rule:evenodd" transform="matrix(1 0 0 1 384.57143 483.798)" d="M 41 5 L 35 11 L 46 22 L 35 33 L 41 39 L 58 22 L 41 5 z"/>
+  <rect style="fill:#fa8865" width="6.25" height="6.25" x="400.32" y="489.8" rx="3.125"/>
+  <flowRoot style="font-size:32.500004" line-height="125%">
+   <flowRegion>
+    <rect width="87.75" height="48.75" x="452.32" y="489.8"/>
+   </flowRegion>
+   <flowPara>
+    Plasm
+   </flowPara>
+  </flowRoot>
+  <rect style="fill:#63c605" width="9" height="9" x="390.57" y="509.3" rx="4.5"/>
+  <rect style="fill:#1b89f3" width="13" height="13" x="403.57" y="528.8" rx="6.5"/>
+  <path style="fill:url(#linearGradient4434);opacity:0.9;fill-rule:evenodd" d="m 423.57143,512.798 6,6 7,-7 -6,-6 z"/>
+ </g>
+</svg>

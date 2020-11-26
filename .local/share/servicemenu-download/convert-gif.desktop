@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=KonqPopupMenu/Plugin
+MimeType=video/*
+Actions=convert-gif
+X-KDE-Submenu=Convert
+Icon=video
+
+[Desktop Action convert-gif]
+Name=Convert to gif
+Icon=video
+Exec=ffmpeg -i %u -y %u.gif

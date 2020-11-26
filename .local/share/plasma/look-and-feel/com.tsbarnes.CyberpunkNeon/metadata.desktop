@@ -1,0 +1,13 @@
+[Desktop Entry]
+Comment=A futuristic dark theme with neon highlights
+Name=Cyberpunk Neon
+X-KDE-PluginInfo-Author=Thea Barnes
+X-KDE-PluginInfo-Category=Plasma Look And Feel
+X-KDE-PluginInfo-Email=thea@tsbarnes.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=LGPL 2.1+
+X-KDE-PluginInfo-Name=com.tsbarnes.CyberpunkNeon
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=https://github.com/tsbarnes/com.tsbarnes.CyberpunkNeon
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1308072,kns://plasma-themes.knsrc/api.kde-look.org/1229134,kns://icons.knsrc/api.kde-look.org/1333537
