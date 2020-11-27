@@ -7,3 +7,18 @@
 [submodule ".vscode-oss/extensions/Bracket-Pair-Colorizer-2"]
 	path = .vscode-oss/extensions/Bracket-Pair-Colorizer-2
 	url = https://github.com/CoenraadS/Bracket-Pair-Colorizer-2
+[submodule "/home/doc/.local/share/zsh/zsh-better-npm-completion"]
+	path = /home/doc/.local/share/zsh/zsh-better-npm-completion
+	url = https://github.com/lukechilds/zsh-better-npm-completion
+[submodule "/home/doc/.local/share/zsh/zsh-rustup-completion"]
+	path = /home/doc/.local/share/zsh/zsh-rustup-completion
+	url = https://github.com/pkulev/zsh-rustup-completion
+[submodule "/home/doc/.local/share/zsh/yarn-completion"]
+	path = /home/doc/.local/share/zsh/yarn-completion
+	url = https://github.com/BuonOmo/yarn-completion
+[submodule "/home/doc/.local/share/zsh/fast-syntax-highlightingn"]
+	path = /home/doc/.local/share/zsh/fast-syntax-highlightingn
+	url = https://github.com/zdharma/fast-syntax-highlighting
+[submodule "/home/doc/.local/share/zsh/fast-syntax-highlighting"]
+	path = /home/doc/.local/share/zsh/fast-syntax-highlighting
+	url = https://github.com/zdharma/fast-syntax-highlighting
