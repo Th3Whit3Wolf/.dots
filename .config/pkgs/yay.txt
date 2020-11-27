@@ -1,0 +1,12 @@
+antibody-bin
+git-delta-bin
+kwalletcli
+pamac-aur
+picom-git
+shim-signed
+snapper-gui-git
+starship-bin
+systemd-asus-charging-threshold
+tlpui-git
+yay
+zoxide-bin
