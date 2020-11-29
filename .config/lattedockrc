@@ -1,0 +1,45 @@
+[DownloadDialog Settings]
+eDP Height 1080=550
+eDP Width 1920=800
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Pics/assests/ditoMenu-spotlight.svg,file:$HOME/Pics/assests/launchpad.svg,file:$HOME/Pics/assests/sideBar-controlCentre-white.svg,file:$HOME/Pics/assests/ditoMenu-spotlight-white.svg
+Recent URLs[$e]=file:$HOME/Pics/assests/,file:$HOME/Pics/,file:$HOME/
+iconViewIconSize=43
+
+[LatteSettingsDialog]
+downloadWindowSize=800,550
+windowSize=700,571
+
+[LatteSettingsDialog][TabLayouts]
+columnWidths=48,,79,
+sortColumn=3
+sortOrder=0
+
+[PlasmaRunnerManager]
+LaunchCounts=
+
+[PlasmaThemeExtended]
+outlineWidth=1
+
+[ScreenConnectors]
+10=eDP
+11=eDP-1
+
+[UniversalSettings]
+badges3DStyle=false
+canDisableBorders=false
+currentLayout=Default
+downloadWindowSize=-1,-1
+inAdvancedModeForEditSettings=true
+lastNonAssignedLayout=Default
+launchers=
+layoutsColumnWidths=
+layoutsWindowSize=-1,-1
+memoryUsage=0
+metaPressAndHoldEnabled=true
+mouseSensitivity=0
+screenTrackerInterval=2500
+showInfoWindow=true
+singleModeLayoutName=Default
+version=2
